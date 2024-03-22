@@ -457,6 +457,7 @@ footer {
     .content {
         justify-content: space-between;
         padding: 0px 40px;
+        z-index: 2;
     }
 
     .content .list-menu{
